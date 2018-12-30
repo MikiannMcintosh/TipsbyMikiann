@@ -27,18 +27,22 @@ The following **additional** features are implemented:
 
 ~Added the amount of people needed to split bill~
 ~Added default functionality~
+~Color variations~
+~Slidders~
+~Dark keyboard~
 
 ## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/BpEPJM4.gif' title='Video Walkthrough of TipsbyMikiann' width=' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+At first I couldn't get the currency to live update but I soon realized I didn't connect the correct UILabel. 
 
 ## License
 
